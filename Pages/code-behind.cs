@@ -60,7 +60,7 @@ namespace Razor_projem.Pages
             {
                 try
                 {
-                    if (yeniYas < 0 | string.IsNullOrEmpty(yeniIsim) | string.IsNullOrWhiteSpace(yeniIsim)) throw new Exception();
+                    if (yeniYas < 0 || string.IsNullOrEmpty(yeniIsim) || string.IsNullOrWhiteSpace(yeniIsim)) throw new Exception();
 
                     baglanti.Open();
 
