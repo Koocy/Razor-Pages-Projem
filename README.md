@@ -13,3 +13,6 @@ Sistem saatiniz hava durumu widgetının alt kısmında yazdırılacaktır.
 
 Dosyalar arasında dahil edilecek olan veritabanına veri ekleyebilir ve bu veritabanındaki bilgileri görebilirsiniz.
 
+#Nasıl çalıştırılır?
+
+https://github.com/Koocy/Razor-Pages-Projem/releases/tag/Release linkindeki Release.zip arşivinde bulunan RazorProjem.exe çalıştırılır ve tarayıcıdan localhost:5000 adresine gidilir.
