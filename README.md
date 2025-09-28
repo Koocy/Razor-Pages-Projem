@@ -1,7 +1,7 @@
 Basit bir ASP.NET Core Razor Pages gösterim projesi. Sitenin ön yüzü HTML, Razor (C#) ve CSS ile yapılmıştır. Client-side için standart ES6 JavaScript, server-side için ASP.NET Core (C#) kullanılmıştır.
 
 
-Projenin cihazınızda çalışması için Pages/code-behind.cs dosyasında bulunan baglantiString'te Password= kısmına kendi veritabanı sunucusu şifrenizi girmeniz ve Veritabanım.sql dosyasını yürütmeniz gereklidir. 
+Projenin cihazınızda çalışması için Pages/code-behind.cs dosyasında bulunan baglantiString'te Password= kısmına kendi SQL Server veritabanı sunucusu şifrenizi girmeniz ve Veritabanım.sql dosyasını yürütmeniz gereklidir. 
 
 
 JavaScript ile eklenen özellikler:
