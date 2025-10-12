@@ -56,11 +56,7 @@ function EBOBEKOKHesapla() {
 
             for (let n = 2; n <= karekoki; n++) {
                 if (i % n == 0) {
-<<<<<<< HEAD
-                    isAsal = false;
-=======
                     iAsaldir = false;
->>>>>>> main
                     break;
                 }
             }
